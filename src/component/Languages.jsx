@@ -23,7 +23,7 @@
 
 const Languages =() => {
     let lang=[
-    {id:1,name:"java"},
+    {id:1,name:"hava"},
     {id:2,name:"python"},
     {id:3,name:"javascript"},
     {id:4,name:"kotlin"},
